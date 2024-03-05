@@ -1,0 +1,4 @@
+32位系统运行auto_uninstaller_aclfix_32bit.exe
+64位系统运行auto_uninstaller_aclfix_64bit.exe
+
+64位系统运行32位的话，访问某些注册表时会被系统重定向，导致错误2找不到注册表项。

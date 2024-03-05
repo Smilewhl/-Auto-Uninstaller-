@@ -1,0 +1,8 @@
+没有修复工具，自己打开目录：C:\Windows\System32\drivers\etc
+把hosts文件复制到桌面，用记事本编辑内容，删掉屏蔽的下面这种网址，保存后复制回etc目录替换。
+
+127.0.0.1 www.axure.com
+127.0.0.1 uninstall-tools.com
+127.0.0.1 9jtx.cn
+...
+127.0.0.1 autodesk8.com

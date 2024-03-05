@@ -1,0 +1,3 @@
+如果闪退没反应可能是路径过长导致，把文件夹名字改短点。
+或者是defender清理了当前目录的NSudoC.exe。
+也可以用NSudo启用全部特权运行MsiSrcCheck.exe
